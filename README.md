@@ -14,6 +14,13 @@ Despite the popularity of Model Compression and Multitask Learning, how to effec
 </div>
 
 ## Prerequisites
+### Datasets
+For NYU-V2, please download here:
+https://drive.google.com/file/d/11pWuQXMFBNMIIB4VYMzi9RPE-nMOBU8g/view
+For CityScapes, please download here:
+https://drive.google.com/file/d/1WrVMA_UZpoj7voajf60yIVaS_Ggl0jrH/view
+For Tiny-Taskonomy, please refer to the following page for instructions:
+https://github.com/StanfordVL/taskonomy/tree/master/data
 
 ## Train
 

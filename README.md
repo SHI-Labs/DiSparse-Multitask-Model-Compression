@@ -98,6 +98,8 @@ Some dataloading and evaluation code is from:
 https://github.com/sunxm2357/AdaShare
 
 ## Citations
+If you find this repo useful to your project or research, please cite our paper below:
+
 @inproceedings{sun2022disparse,\
   title={DiSparse: Disentangled Sparsification for Multitask Model Compression},\
   author={Sun, Xinglong and Hassani, Ali and Wang, Zhangyang and Huang, Gao and Shi, Humphrey},\
